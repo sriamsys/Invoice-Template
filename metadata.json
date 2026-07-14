@@ -1,0 +1,6 @@
+{
+  "name": "Invoice Template Designer",
+  "description": "A highly interactive, schema-driven visual designer for configuring custom invoice templates with live zoomable and responsive preview canvas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
